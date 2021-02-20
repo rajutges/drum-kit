@@ -4,4 +4,4 @@ A fun webpage for play drum kit
 
 Made using HTML, CSS, JAVASCRIPT.
 
-![SAMPLE IMAGE](https://github.com/rajutges/drum-kit/blob/main/dd.JPG)
+![SAMPLE IMAGE](https://github.com/rajutges/drum-kit/blob/main/DSDS.JPG)
