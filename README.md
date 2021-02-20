@@ -4,3 +4,4 @@ A fun webpage for play drum kit
 
 Made using HTML, CSS, JAVASCRIPT.
 
+![alt text](http://url/to/img.png)
